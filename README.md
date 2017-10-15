@@ -21,7 +21,7 @@ gives user millions of choices for characterizing their character. To do this, t
 
 So to wrap this up, these are the things I need to implement:
 1) Unique skills(I'm thinking of a skill-growth... have a "unique skill" that you continue growing stats by doing quests and adventures.
-Users can increse hit# for combo, damage, speed, status effect, element type, etc)
+Users can increse hit# for combo, damage, speed, status effect, element type, etc). Also unique skills given to users who do something first(the "something is hidden") is a good idea too.
 2) Bonus damage by counter elements will make the game more strategic. To balance the usability of all the elements, we better make the boss monsters and different events have monsters that have various elements, so that no one element is dominant.
 3) WAY,WAY MORE STATS THAT THE USER CAN DISTRIBUTE ON. Not only strength, but the users get to customize even more low-level statistics so that they can uniquely customized their characters Ex) arm speed, movement speed, reaction time, etc.
 4) Free-PK zones except town.
