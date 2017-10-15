@@ -16,4 +16,12 @@ is, and this causes the users to all choose the same stat distribution for their
 given job class "strongest, but uniform". The same thing goes on for equipments, quests, and every other component of the game that "tries"
 to make the characters unique, making every character "have the same stats, have the same equipments, the same type of play style" in the end.
 
-I want to make an MMORPG that breaks apart from that uniformism, that "one h" and make a game that truly
+I want to make an MMORPG that breaks apart from that uniformism, that "a single path to become the strongest" and make a game that truly
+gives user millions of choices for characterizing their character. To do this, the games must be "ALMOST PERFECTLY BALANCED", so that no one path is dominant than other ones.  Also, the players have complete freedom of what they are going to do: they can farm, blacksmith, etc (but the major part of the game will be combat). I want the MMORPG to be just like the real world itself; you have complete freedom of what you could do. Also, users must be able to get stronger by a more or less equal amount of effort from any kind of combat actions they do. The games shouldn't be 100% raid-centered like WOW; more like FF14; you can hunt in fields all day and you can still become as strong as people who go raid boss monsters all day long. Also, I want the game to be full of adventures; a lot of contents that the users can enjoy.
+
+So to wrap this up, these are the things I need to implement:
+1) Unique skills(I'm thinking of a skill-growth... have a "unique skill" that you continue growing stats by doing quests and adventures.
+Users can increse hit# for combo, damage, speed, status effect, element type, etc)
+2) Bonus damage by counter elements will make the game more strategic. To balance the usability of all the elements, we better make the boss monsters and different events have monsters that have various elements, so that no one element is dominant.
+3) WAY,WAY MORE STATS THAT THE USER CAN DISTRIBUTE ON. Not only strength, but the users get to customize even more low-level statistics so that they can uniquely customized their characters Ex) arm speed, movement speed, reaction time, etc.
+4) Free-PK zones except town.
